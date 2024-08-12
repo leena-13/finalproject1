@@ -1,0 +1,27 @@
+    body { 
+        text-align: left;
+        background-color: #fde9ec; 
+        font-family: "Gupter", serif;
+        margin: 10%;
+        color: deeppink;
+    }
+p {
+    color: black;
+}
+
+    h1 {
+        text-align: center;
+        font-family:  "Pacifico", cursive;
+        font-size: 40px;
+    }
+        
+    h2 {
+        font-family: "Dancing Script", cursive;
+        color: black;
+    }
+
+.special {
+    background-color: white;
+    margin: 15;
+    padding: 10;
+}
