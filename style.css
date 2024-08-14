@@ -4,6 +4,7 @@
         font-family: "Gupter", serif;
         margin: 10%;
         color: deeppink;
+        font-size: 18px;
     }
 p {
     color: black;
@@ -24,4 +25,10 @@ p {
     background-color: white;
     margin: 15;
     padding: 10;
+}
+
+.div {
+    float: left;
+    padding: 5px;
+    width: 20%;
 }
